@@ -1,0 +1,8 @@
+body {
+    height: 100vh;
+}
+
+form {
+    align-items: center;
+    max-width: 100%;
+}
